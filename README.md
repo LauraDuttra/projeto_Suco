@@ -172,4 +172,4 @@ mostrarItem(indiceAtivo);
 
 ## Passo 5: Conclusão 🎉
 
-Agora você tem uma página interativa com frutas e seus respectivos refrigerantes. Você pode expandir esse projeto com mais frutas, adicionar animações ou até mesmo incluir mais funcionalidades, como uma barra de progresso ou uma galeria de imagens.
+Espero que goste e visite as pastas disponíveis!
